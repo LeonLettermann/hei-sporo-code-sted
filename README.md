@@ -11,7 +11,7 @@ This repository is part of the [hei-sporo-code](https://github.com/LeonLetterman
 ## Repository Structure
 
 ```text
-hei-sporo-code/
+hei-sporo-code-sted/
 ├── AnalyzeSTED.ipynb    # Angular profile generation and microtubule position inference
 └── environment.yml      # Conda environment file
                          # ⚠️ JAX version might need to be adapted to your system
