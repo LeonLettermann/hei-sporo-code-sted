@@ -2,9 +2,9 @@
 
 **Code for analysis of microtubule position in STED images of plasmodium sporozoites.**
 
-This repository includes example code for STED microscopy analysis of sporozoites to locate there microtubules and infere the position of the separated microtubule.
+This repository is part of the [hei-sporo-code](https://github.com/LeonLettermann/hei-sporo-code) project and contains Python/JAX code for analysis of STED super-resolution microscopy images of sporozoites, and the inference of the position of the microtubules.
 
-📦 **Data for running and testing the code** can be found at the [associated dataset repository](https://doi.org/10.11588/DATA/4YBYXE).
+📦 **Test data** is available at the [associated dataset repository](https://doi.org/10.11588/DATA/4YBYXE).
 
 ---
 
