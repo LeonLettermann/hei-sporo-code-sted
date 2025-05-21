@@ -4,7 +4,7 @@
 
 This repository is part of the [hei-sporo-code](https://github.com/LeonLettermann/hei-sporo-code) project and contains Python/JAX code for analysis of STED super-resolution microscopy images of sporozoites, and the inference of the position of the microtubules.
 
-📦 **Test data** is available at the [associated dataset repository](https://doi.org/10.11588/DATA/4YBYXE).
+📦 **Test data** is available at the [associated dataset repository](https://doi.org/10.11588/DATA/4YBYXE) (will be opened upon publication).
 
 ---
 
